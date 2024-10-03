@@ -1,6 +1,5 @@
 "use client";
 
-import { useState, useRef } from 'react';
 import Spline from "@splinetool/react-spline";
 
 import { AlignRight } from 'lucide-react';
