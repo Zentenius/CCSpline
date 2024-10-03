@@ -2,7 +2,7 @@
 
 import { useState, useRef } from 'react';
 import Spline from "@splinetool/react-spline";
-import { CardContainer, CardBody, CardItem } from '../components/ui/3d-card';
+
 import { AlignRight } from 'lucide-react';
 
 export default function Home() {
